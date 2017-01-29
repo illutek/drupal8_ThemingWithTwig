@@ -1,0 +1,7 @@
+name: onceagain
+description: 'Nog een keer Drupal 8 theme oefening'
+type: theme
+package: Custom
+core: 8.x
+version: '8.x-1.0'
+base theme: classy
