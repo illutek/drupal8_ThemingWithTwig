@@ -1,0 +1,12 @@
+globalstyling:
+  css:
+    theme:
+      css/style.css: {}
+  js:
+    vendor/twbs/bootstrap/dist/js/bootstrap.min.js: {}
+  dependencies:
+      - core/jquery
+      - core/drupal.ajax
+      - core/drupal
+      - core/drupalSettings
+      - core/jquery.once

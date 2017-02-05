@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="82566021-e3c7-4477-84f9-f1c9f2557b0c" name="illutek.ddns.net" url="http://illutek.ddns.net">
+        <fileTransfer host="illutek.ddns.net" port="20022" rootFolder="/var/www/drupal/test_projecten/drupal8_ThemingWithTwig" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="20022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
